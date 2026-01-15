@@ -15,5 +15,12 @@
       <guid>https://sultryblue.github.io/hugo/posts/pirmas-irasas/</guid>
       <description>&lt;p&gt;Sveiki, čia Agnė Kaktienė. Šis tinklalapis sukurtas su Hugo ir publikuotas per GitHub Pages Debesų kompiuterijos darbui.&lt;/p&gt;</description>
     </item>
+    <item>
+      <title>Antras įrašas</title>
+      <link>https://sultryblue.github.io/hugo/posts/antras-irasas/</link>
+      <pubDate>Mon, 15 Jan 2024 14:00:00 +0200</pubDate>
+      <guid>https://sultryblue.github.io/hugo/posts/antras-irasas/</guid>
+      <description>&lt;h1 id=&#34;mano-antras-įrašas&#34;&gt;Mano antras įrašas&lt;/h1&gt;&#xA;&lt;p&gt;Čia yra mano naujas įrašas su &lt;strong&gt;paveiksliuku&lt;/strong&gt; ir &lt;strong&gt;kodo citata&lt;/strong&gt;.&lt;/p&gt;&#xA;&lt;h2 id=&#34;paveiksliukas&#34;&gt;Paveiksliukas&lt;/h2&gt;&#xA;&lt;p&gt;&lt;img src=&#34;paveiksliukai/katinas.jpg&#34; alt=&#34;Mano paveiksliukas&#34;&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;kodo-citata-code-block&#34;&gt;Kodo citata (code block)&lt;/h2&gt;&#xA;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#66d9ef&#34;&gt;def&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;hello&lt;/span&gt;():&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    print(&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;Sveiki!&amp;#34;&lt;/span&gt;)&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;yaml&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;Copy code&#xA;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</description>
+    </item>
   </channel>
 </rss>
