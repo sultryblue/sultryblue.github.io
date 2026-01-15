@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Agnės Hugo tinklalapis</title>
+    <link>https://sultryblue.github.io/hugo/</link>
+    <description>Recent content on Agnės Hugo tinklalapis</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 15 Jan 2026 12:00:00 +0200</lastBuildDate>
+    <atom:link href="https://sultryblue.github.io/hugo/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Pirmas įrašas</title>
+      <link>https://sultryblue.github.io/hugo/posts/pirmas-irasas/</link>
+      <pubDate>Thu, 15 Jan 2026 12:00:00 +0200</pubDate>
+      <guid>https://sultryblue.github.io/hugo/posts/pirmas-irasas/</guid>
+      <description>&lt;p&gt;Sveiki, čia Agnė Kaktienė. Šis tinklalapis sukurtas su Hugo ir publikuotas per GitHub Pages Debesų kompiuterijos darbui.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
